@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Trust OS",
+  "description": "Sovereign Trust OS — Enterprise Rewards Platform with RC3 Production Hardening: double-entry accounting ledger, RBAC security gates, resilience queues, and observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
